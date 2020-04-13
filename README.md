@@ -5,7 +5,7 @@
 
 # File description
  1. data：self-collected data set (trans to .jpg by ROS)
- 2. dataOnline: online data set
+ 2. dataOnline: online data set (with corresponding parameters)
  3. src：code
 
 # Prerequisites
@@ -33,6 +33,7 @@
   2. check for "saving the point cloud map..."
  7. show the result 
       pcl_viewer result.pcd
+ 8. if change data set, please change the parameters
       
 # contact
 any problem please contact lian_kang@hotmail.com
