@@ -35,7 +35,7 @@
       pcl_viewer result.pcd
       
 # contact
-If you have any problem, please contact lian_kang@hotmail.com
+any problem please contact lian_kang@hotmail.com
 
 # reference 
 Xiang Gao, Tao Zhang, Yi Liu, Qinrui Yan, 14 Lectures on Visual SLAM: From Theory to Practice, Publishing House of Electronics Industry, 2017.
