@@ -1,0 +1,19 @@
+# change camera parameters
+camera.cx=325.5;
+camera.cy=253.5;
+camera.fx=518.0;
+camera.fy=519.0;
+camera.scale=1000.0;
+
+start_index=1
+end_index=780
+
+# delete this depth range
+start_d=10
+end_d=30
+
+# change data dir
+rgb_dir=onlinedData/color/
+rgb_extension=.jpg
+depth_dir=onlineData/depth/
+depth_extension=.jpg
