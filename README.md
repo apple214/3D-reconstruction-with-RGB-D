@@ -1,7 +1,7 @@
 # 3D-reconstruction-with-RGB-D
 3D reconstruction project with RGB-D camera, using SLAM algorithm
 
-...is based on the open source projects, ROS, OpenCV, PCL, g2o, and more - Thanks!
+...is based on the open source projects, ROS, OpenCV, PCL, g2o, and more, online data from nyu https://cs.nyu.edu/~silberman/datasets/nyu_depth_v1.html, data (self-collected) collected by Dr.Shan He - Thanks!
 
 # File description
  1. data：self-collected data set (trans to .jpg by ROS)
