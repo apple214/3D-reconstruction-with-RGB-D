@@ -34,9 +34,7 @@
  7. show the result 
       pcl_viewer result.pcd
  8. if change data set, please change the parameters
-      
-# contact
-any problem please contact lian_kang@hotmail.com
+     
 
 # reference 
 Xiang Gao, Tao Zhang, Yi Liu, Qinrui Yan, 14 Lectures on Visual SLAM: From Theory to Practice, Publishing House of Electronics Industry, 2017.
